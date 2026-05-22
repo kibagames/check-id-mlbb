@@ -1,0 +1,30 @@
+{
+  "name": "check-id-mlbb",
+  "version": "1.0.0",
+  "description": "[![Stars](https://img.shields.io/github/stars/caliph91/check-id-mlbb?style=flat-square)](https://github.com/caliph91/check-id-mlbb/stargazers) [![Forks](https://img.shields.io/github/forks/caliph91/check-id-mlbb?style=flat-square)](https://github.com/caliph91/check-id-mlbb/network/members) [![Issues](https://img.shields.io/github/issues/caliph91/check-id-mlbb?style=flat-square)](https://github.com/caliph91/check-id-mlbb/issues) [![License](https://img.shields.io/github/license/caliph91/check-id-mlbb?style=flat-square)](https://github.com/caliph91/check-id-mlbb/blob/main/LICENSE) [![Node.js](https://img.shields.io/badge/Node.js-20.x-green?style=flat-square&logo=node.js)](https://nodejs.org/) [![Demo](https://img.shields.io/badge/Live%20Demo-Available-brightgreen?style=flat-square)](https://cekidml.caliph.dev)",
+  "homepage": "https://github.com/cabrata/check-id-mlbb#readme",
+  "bugs": {
+    "url": "https://github.com/cabrata/check-id-mlbb/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cabrata/check-id-mlbb.git"
+  },
+  "license": "ISC",
+  "author": "cabrata",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.15",
+    "axios": "^1.8.4",
+    "express": "^4.21.2",
+    "tailwindcss": "^4.0.15"
+  },
+  "devDependencies": {}
+}
